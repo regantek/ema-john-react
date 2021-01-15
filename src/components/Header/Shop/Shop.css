@@ -11,4 +11,12 @@
 }
 .cart-container {
   margin-top: 10px;
+
+  padding-left: 50px;
+  margin-left: 1100px;
+  position: fixed;
+}
+.cart-container h3 {
+  margin-top: 30px;
+  margin-left: 40px;
 }
